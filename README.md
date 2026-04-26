@@ -58,32 +58,32 @@
 </div>
 
 <pre>
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  🧠 Psychology (BA) → 💻 Deep Learning → 🧬 AGI Architecture              │
-│                                                                             │
-│  I don't just train models. I build <b>symbiotic intelligence ecosystems</b>.  │
-│                                                                             │
-│  My work sits at the collision of:                                          │
-│    • Human cognition & neural network topology                                │
-│    • Modular multi-agent systems & emergent behavior                          │
-│    • Real-time multimodal perception & action                                 │
-│    • Game theory, simulators, & embodied AI                                   │
-│                                                                             │
-│  ONI² isn't a model. It's an <b>ensemble of symbiotic modules</b> where every   │
-│  part reinforces every other part — 2,000,000+ possible paths between       │
-│  modules, all trained to cooperate, not just coexist.                         │
-│                                                                             │
-│  Current obsessions: 
-     ├─ Multi-Adapter Ensembles
-│    ├─ Multi-Agent GRPO distillation at superintelligence scale               │
-│    ├─ Real-time audio + video generation pipelines                           │
-│    ├─ Teaching AI to play Portal 2 so it learns <i>why</i> not to be evil        │
-│    ├─ MuJoCo → Sim-to-Real transfer for robotics 
-     ├─ Predictive Coding
-│    └─ Hypergraph-based reasoning & KAN knowledge integration                 │
-│                                                                             │
-│  Also: Street Fighter combos, BlazBlue frame data, and sandcastle defense   │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│  🧠 Psychology (BA) → 💻 Deep Learning → 🧬 AGI Architecture                               │
+│                                                                                              │
+│ I build <b>symbiotic intelligence ecosystems</b>.                                            │
+│                                                                                              │
+│  My work sits at the collision of:                                                           │
+│    • Human cognition & neural network topology                                               │
+│    • Modular multi-agent systems & emergent behavior                                         │
+│    • Real-time multimodal perception & action                                                │
+│    • Game theory, simulators, & embodied AI                                                  │
+│                                                                                              │
+│  ONI It's an <b>ensemble of symbiotic modules</b> that act as a unified entity where every   │
+│  part reinforces every other part — 2,000,000+ possible paths between                        │
+│  modules, all trained to cooperate, not just coexist.                                        │
+│                                                                                              │
+│  Current obsessions:                                                                         │
+│    ├─ Multi-Adapter Ensembles                                                                │
+│    ├─ Multi-Agent GRPO distillation at superintelligence scale                               │
+│    ├─ Real-time audio + video generation pipelines                                           │
+│    ├─ Teaching AI to play Portal 2 so it learns <i>why</i> not to be evil                    │
+│    ├─ MuJoCo → Sim-to-Real transfer for robotics                                             │
+│    ├─ Predictive Coding                                                                      │
+│    └─ Hypergraph-based reasoning & KAN knowledge integration                                 │
+│                                                                                              │
+│  Also: Street Fighter combos, BlazBlue frame data, and sandcastle defense                    │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <br>
@@ -158,7 +158,7 @@
 </div>
 
 ```yaml
-operation: ONI²-Ensemble-Training
+operation: ONI²-Ensemble-Training -> videos released weekly if not daily on Patreon
 status:     🔴 LIVE — PROPRIETARY
 modules:    8 active symbiotic nodes
 paths:      2,000,000+ cross-module connections
