@@ -81,7 +81,7 @@
 │    ├─ Predictive Coding                                                                      │
 │    └─ Hypergraph-based reasoning & KAN knowledge integration                                 │
 │                                                                                              │
-│  Also: Skate. , Wherewindsmeet movement gameplay, SPIDERMAN GAMEPLAY? Fuck yeah bro.                    │
+│  Also: Skate. , Wherewindsmeet movement gameplay, SPIDERMAN GAMEPLAY? Fuck yeah bro.         │
 └──────────────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
