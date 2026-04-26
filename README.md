@@ -42,40 +42,6 @@
 <!--                    MATRIX DIVIDER                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-```diff
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
-+                    「 CORE ARCHITECTURE 」                                        +
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
-```
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff00ff', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#00f3ff'}}}%%
-graph TD
-    A[🧠 ONI-2 Ensemble Core] *can*
-    A --> C[👁️ Vision]
-    A --> D[🔊 Real-time Audio]
-    A --> E[🎮 MuJoCo / Gym]
-    A --> F[🎬 Video Generation/Image Generation]
-    A --> G[🛠️ Tool Use Engine -> different than normal tool use not like LM]
-    A --> H[📐 Sim / Game Gen /Real-time gaming]
-    B <--> C
-    C <--> D
-    D <--> E
-    E <--> F
-    F <--> G
-    G <--> H
-    H <--> B
-    style A fill:#ff00ff,stroke:#fff,stroke-width:2px
-    style B fill:#0d1117,stroke:#00f3ff,stroke-width:1px
-    style C fill:#0d1117,stroke:#00f3ff,stroke-width:1px
-    style D fill:#0d1117,stroke:#00f3ff,stroke-width:1px
-    style E fill:#0d1117,stroke:#39ff14,stroke-width:1px
-    style F fill:#0d1117,stroke:#39ff14,stroke-width:1px
-    style G fill:#0d1117,stroke:#39ff14,stroke-width:1px
-    style H fill:#0d1117,stroke:#39ff14,stroke-width:1px
-```
 
 </div>
 
