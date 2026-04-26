@@ -61,7 +61,7 @@
 ┌──────────────────────────────────────────────────────────────────────────────────────────────┐
 │  🧠 Psychology (BA) → 💻 Deep Learning → 🧬 AGI Architecture                               │
 │                                                                                              │
-│ I build <b>symbiotic intelligence ecosystems</b>.                                                │
+│ I build <b>symbiotic intelligence ecosystems</b>.                                                    │
 │                                                                                              │
 │  My work sits at the collision of:                                                           │
 │    • Human cognition & neural network topology                                               │
@@ -69,7 +69,7 @@
 │    • Real-time multimodal perception & action                                                │
 │    • Game theory, simulators, & embodied AI                                                  │
 │                                                                                              │
-│  ONI It's an <b>ensemble of symbiotic modules</b> that act as a unified entity where every       │
+│  ONI It's an <b>ensemble of symbiotic modules</b> that act as a unified entity where every           │
 │  part reinforces every other part — 2,000,000+ possible paths between                        │
 │  modules, all trained to cooperate, not just coexist.                                        │
 │                                                                                              │
