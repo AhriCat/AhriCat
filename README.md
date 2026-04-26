@@ -5,17 +5,17 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <pre align="center">
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  █████╗ ██╗  ██╗██████╗ ██╗         ███████╗████████╗███████╗███████╗██╗     ║
-║ ██╔══██╗██║  ██║██╔══██╗██║         ██╔════╝╚══██╔══╝██╔════╝██╔════╝██║     ║
-║ ███████║███████║██████╔╝██║         ███████╗   ██║   █████╗  █████╗  ██║     ║
-║ ██╔══██║██╔══██║██╔══██╗██║         ╚════██║   ██║   ██╔══╝  ██╔══╝  ██║     ║
-║ ██║  ██║██║  ██║██║  ██║███████╗    ███████║   ██║   ███████╗███████╗███████╗║
-║ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚══════╝╚══════╝╚══════╝║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║           ⚡ CHIEF OF TECHNOLOGY // PANTHEUM INNOVATIONS ⚡                   ║
-║              🧠 PSYCHOLOGY × AI × MULTIMODAL AGI ARCHITECT 🧠                ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════╗
+║  █████╗ ██╗  ██╗██████╗  ║██║         ███████╗████████╗███████╗███████╗██╗     ███████╗║
+║ ██╔══██╗██║  ██║██╔══██╗ ║██║         ██╔════╝╚══██╔══╝██╔════╝██╔════╝██║     ██╔════ ║
+║ ███████║███████║██████╔╝ ║██║         ███████╗   ██║   █████╗  █████╗  ██║     █████╗  ║
+║ ██╔══██║██╔══██║██╔══██╗ ║██║         ╚════██║   ██║   ██╔══╝  ██╔══╝  ██║     ██╔══╝  ║
+║ ██║  ██║██║  ██║██║  ██║ ║██║         ███████║   ██║   ███████╗███████╗███████╗███████╗║
+║ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝         ╚══════╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚══════╝║
+╠════════════════════════════════════════════════════════════════════════════════════════╣
+║           ⚡ CHIEF OF TECHNOLOGY // PANTHEUM INNOVATIONS ⚡                           ║
+║              🧠 PSYCHOLOGY × AI × MULTIMODAL AGI ARCHITECT 🧠                         ║
+╚════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -53,13 +53,13 @@
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#ff00ff', 'edgeLabelBackground':'#0d1117', 'tertiaryColor': '#00f3ff'}}}%%
 graph TD
-    A[🧠 ONI-2 Ensemble Core] --> B[🗣️ NLP Transformer]
-    A --> C[👁️ Vision ViT-B/16]
+    A[🧠 ONI-2 Ensemble Core] *can*
+    A --> C[👁️ Vision]
     A --> D[🔊 Real-time Audio]
     A --> E[🎮 MuJoCo / Gym]
-    A --> F[🎬 Video Generation]
-    A --> G[🛠️ Tool Use Engine]
-    A --> H[📐 Sim / Game Gen]
+    A --> F[🎬 Video Generation/Image Generation]
+    A --> G[🛠️ Tool Use Engine -> different than normal tool use not like LM]
+    A --> H[📐 Sim / Game Gen /Real-time gaming]
     B <--> C
     C <--> D
     D <--> E
@@ -107,11 +107,13 @@ graph TD
 │  part reinforces every other part — 2,000,000+ possible paths between       │
 │  modules, all trained to cooperate, not just coexist.                         │
 │                                                                             │
-│  Current obsessions:                                                          │
+│  Current obsessions: 
+     ├─ Multi-Adapter Ensembles
 │    ├─ Multi-Agent GRPO distillation at superintelligence scale               │
 │    ├─ Real-time audio + video generation pipelines                           │
 │    ├─ Teaching AI to play Portal 2 so it learns <i>why</i> not to be evil        │
-│    ├─ MuJoCo → Sim-to-Real transfer for robotics                             │
+│    ├─ MuJoCo → Sim-to-Real transfer for robotics 
+     ├─ Predictive Coding
 │    └─ Hypergraph-based reasoning & KAN knowledge integration                 │
 │                                                                             │
 │  Also: Street Fighter combos, BlazBlue frame data, and sandcastle defense   │
@@ -197,15 +199,15 @@ paths:      2,000,000+ cross-module connections
 capabilities:
   - MuJoCo / OpenAI Gym integration
   - Real-time audio synthesis & recognition
-  - Video generation pipeline (diffusion-based)
+  - Video generation 
   - Text training & reasoning
   - Tool use & API orchestration
-  - Video game / simulation generation
+  - Video game / simulation generation and gameplay
   - Embodied robotics control
 research_frontiers:
   - Multi-Agent GRPO distillation
   - Superintelligence Oven project
-  - Nested AI models (God Classes)
+  - Super-Nested AI models (Neural-God Classes/ONI Class architectures)
   - Fractal Modularity: MoE × MoA × Multi-Agent
 ethical_mandate: "Teach it why NOT to be evil from the get"
 ```
