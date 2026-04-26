@@ -31,7 +31,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 [![AGI](https://img.shields.io/badge/Architect-AGI-ff00ff?style=for-the-badge&logo=dependabot&logoColor=white&labelColor=0d1117)](https://pantheuminno.weebly.com)
-[![ONI](https://img.shields.io/badge/System-ONI₂-00f3ff?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117)](https://github.com/AhriCat/ONI)
+[![ONI](https://img.shields.io/badge/System-ONI1-00f3ff?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117)](https://github.com/AhriCat/ONI)
 [![Psychology](https://img.shields.io/badge/Background-Psychology-39ff14?style=for-the-badge&logo=brain&logoColor=white&labelColor=0d1117)]()
 [![YouTube](https://img.shields.io/badge/ONI₂+plays+Portal+2-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AhriTechAndOtherNonsense)
 [![CTO](https://img.shields.io/badge/Role-CTO-f97316?style=for-the-badge&logo=slack&logoColor=white&labelColor=0d1117)]()
