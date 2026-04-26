@@ -77,7 +77,7 @@
 │    ├─ Multi-Adapter Ensembles                                                                │
 │    ├─ Multi-Agent GRPO distillation at superintelligence scale                               │
 │    ├─ Real-time audio + video generation pipelines                                           │
-│    ├─ Teaching AI to play Portal 2 so it learns <i>why</i> not to be evil                          │
+│    ├─ Teaching AI to play Portal 2 so it learns <i>why</i> not to be evil                           │
 │    ├─ MuJoCo → Sim-to-Real transfer for robotics                                             │
 │    ├─ Predictive Coding                                                                      │
 │    └─ Hypergraph-based reasoning & KAN knowledge integration                                 │
