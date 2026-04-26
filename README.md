@@ -161,7 +161,7 @@
 ```yaml
 operation: ONI²-Ensemble-Training -> videos released weekly if not daily on Patreon
 status:     🔴 LIVE — PROPRIETARY
-modules:    8 active symbiotic nodes
+modules:    many active nodes
 paths:      2,000,000+ chained connections
 capabilities:
   - MuJoCo / OpenAI Gym integration
