@@ -195,7 +195,7 @@ ethical_mandate: "Teach it why NOT to be evil from the get"
 
 <br>
 
-### 📡 `Neural Links`
+### 📡 `Web Links`
 
 [![Website](https://img.shields.io/badge/Pantheum-pantheuminno.weebly.com-ff00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://pantheuminno.weebly.com)
 [![HuggingFace](https://img.shields.io/badge/Models-@ahricat-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)](https://huggingface.co/ahricat)
