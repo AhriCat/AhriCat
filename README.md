@@ -22,7 +22,7 @@
 <!--                    TYPING ANIMATION SVG                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00F3FF&center=true&vCenter=true&width=800&lines=Building+ONI+%E2%80%94+Operant+Neural+Intelligence;2%2C000%2C000%2B+Module+Paths+%7C+Symbiotic+AGI;Real-time+Audio+%C2%B7+Video+Gen+%C2%B7+MuJoCo+%C2%B7+Tool+Use;Psychology+%2B+Deep+Learning+%2B+Cybernetics;Teaching+AI+Why+Not+to+Be+an+Evil+Robot+since+2015" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF88FF&center=true&vCenter=true&width=800&lines=Building+ONI+%E2%80%94+Operant+Neural+Intelligence;2%2C000%2C000%2B+Module+Paths+%7C+Symbiotic+AGI;Real-time+Audio+%C2%B7+Video+Gen+%C2%B7+MuJoCo+%C2%B7+Tool+Use;Psychology+%2B+Deep+Learning+%2B+Cybernetics;Teaching+AI+Why+Not+to+Be+an+Evil+Robot+since+2015" alt="Typing SVG" />
 
 <br><br>
 
