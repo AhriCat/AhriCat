@@ -199,7 +199,7 @@ ethical_mandate: "Teach it why *NOT* to be evil from the get"
 ### 📡 `Web Links`
 
 [![Website](https://img.shields.io/badge/Pantheum-innovations.github.io-ff00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://pantheum-innovations.github.io/)
-[![Website](https://img.shields.io/badge/socraticsocial.com-ff00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)]([https://socraticssocial.netlify.app/])
+[![Website](https://img.shields.io/badge/socraticsocial.com-ff00ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://socraticssocial.netlify.app/)
 [![HuggingFace](https://img.shields.io/badge/Models-@ahricat-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)](https://huggingface.co/ahricat)
 [![YouTube](https://img.shields.io/badge/Demos-Ahri's_Tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/@AhriSteezy)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ahri-steele)
