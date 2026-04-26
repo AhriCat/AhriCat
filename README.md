@@ -134,13 +134,15 @@
 **Research Domains**
 
 ```
-🧠 Transformers        ████████████████████████████  Expert
-🕸️  Hypergraphs         ███████████████████████████░  Expert  
-🎯 Reinforcement Learning ████████████████████████░░░░  Advanced
-🔊 Multimodal Fusion     ███████████████████████░░░░░  Advanced
+    Transformers        ████████████████████████████████████  Expert
+🎯 Reinforcement Learning ████████████████████████████████████ Expert
+🕸️  Hypergraphs         ███████████████████████████████████  Expert  
+
+🔊 Multimodal Fusion     ███████████████████████████  Expert
 🎮 Game AI / Simulators  ██████████████████████████░░  Expert
 🧬 Meta-Learning (MAML)  ██████████████████████░░░░░░  Advanced
 📐 Physics (MuJoCo)      ████████████████████████░░░░  Advanced
+🧠  Biology inspired     ████████████████████████████  Expert
 ```
 
 </div>
