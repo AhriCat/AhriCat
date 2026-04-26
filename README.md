@@ -207,7 +207,7 @@ ethical_mandate: "Teach it why NOT to be evil from the get"
 
 ```diff
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
-+   "The future isn't built by monoliths. It's woven from symbiotic threads."      +
++   "99% of problems are resultant from miscommunication."      +
 +                                    — Ahri Steele                                +
 + ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ +
 ```
