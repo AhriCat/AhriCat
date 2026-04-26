@@ -32,7 +32,7 @@
 
 [![AGI](https://img.shields.io/badge/Architect-AGI-ff00ff?style=for-the-badge&logo=dependabot&logoColor=white&labelColor=0d1117)](https://pantheuminno.weebly.com)
 [![ONI](https://img.shields.io/badge/System-ONI1-00f3ff?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117)](https://github.com/AhriCat/ONI)
-[![Research](https://img.shields.io/badge/Reseach+Gate-39ff14?style=for-the-badge&logo=rg&logoColor=white&labelColor=0d1117)](https://www.researchgate.net/profile/Ahri-Steele)
+[![Research](https://img.shields.io/badge/ReseachGate-39ff14?style=for-the-badge&logo=rg&logoColor=white&labelColor=0d1117)](https://www.researchgate.net/profile/Ahri-Steele)
 [![YouTube](https://img.shields.io/badge/ONI₂+plays+Portal+2-ff0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://www.youtube.com/watch?v=o7it6YYMfmM)
 [![CTO](https://img.shields.io/badge/Role-CTO-f97316?style=for-the-badge&logo=slack&logoColor=white&labelColor=0d1117)]()
 
