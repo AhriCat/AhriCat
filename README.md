@@ -81,7 +81,7 @@
 │    ├─ Predictive Coding                                                                      │
 │    └─ Hypergraph-based reasoning & KAN knowledge integration                                 │
 │                                                                                              │
-│  Also: Street Fighter combos, BlazBlue frame data, and sandcastle defense                    │
+│  Also: Skate. , Wherewindsmeet movement gameplay, SPIDERMAN GAMEPLAY? Fuck yeah bro.                    │
 └──────────────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
