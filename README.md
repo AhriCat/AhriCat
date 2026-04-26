@@ -70,8 +70,7 @@
 │    • Game theory, simulators, & embodied AI                                                  │
 │                                                                                              │
 │  ONI It's an <b>ensemble of symbiotic modules</b> that act as a unified entity where every          │
-│  part reinforces every other part — 2,000,000+ possible paths between                        │
-│  modules, all trained to cooperate, not just coexist.                                        │
+│  part reinforces every other part — 2,000,000+ possible paths                                │
 │                                                                                              │
 │  Current obsessions:                                                                         │
 │    ├─ Multi-Adapter Ensembles                                                                │
@@ -177,7 +176,7 @@ research_frontiers:
   - Superintelligence Oven project
   - Super-Nested AI models (Neural-God Classes/ONI Class architectures)
   - Fractal Modularity: MoE × MoA × Multi-Agent
-ethical_mandate: "Teach it why NOT to be evil from the get"
+ethical_mandate: "Teach it why *NOT* to be evil from the get"
 ```
 
 <br>
