@@ -59,7 +59,7 @@
 
 <pre>
 ┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  🧠 Psychology (BA) → 💻 Deep Learning → 🧬 AGI Architecture                                 │
+│  🧠 Psychology (BA) → 💻 Deep Learning → 🧬 AGI Architecture                                 
 │                                                                                              │
 │ I build <b>symbiotic intelligence ecosystems</b>.                                                   │
 │                                                                                              │
